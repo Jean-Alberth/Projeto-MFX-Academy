@@ -1,0 +1,18 @@
+{
+  "name": "sqlite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./app/server"
+  },
+  "keywords": [],
+  "author": "Jean Alberth",
+  "license": "ISC",
+  "description": "Projeto back-end",
+  "dependencies": {
+    "fastify": "^5.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
